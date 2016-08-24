@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RegSuite" parallel="tests">
+<test name="1stTime">
+<parameter name="browser" value="firefox"></parameter>
+<classes>
+<class name="taran.TaranTest"/>
+</classes> 
+
+</test>
+<test name="2ndTime">
+<parameter name="browser" value="chrome"></parameter>
+<classes>
+<class name="taran.TaranTest"/>
+</classes>
+</test>
+</suite>

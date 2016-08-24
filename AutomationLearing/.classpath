@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/freemarker-2.3.14.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/gherkin-2.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/gherkin-jvm-deps-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/jbehave-core-4.0-beta-3.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/jbehave-gherkin-4.0-beta-3.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/jbehave-junit-runner-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/paranamer-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/selenium-java-2.41.0.jar"/>
+	<classpathentry kind="lib" path="D:/IMPTASPECTS/Selenium Learning/Selenium/Jars/selenium-java-2.41.0-srcs.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

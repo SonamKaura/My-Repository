@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RegSuite">
+<tests>
+<test>
+<test name="Regression" >
+<Classes>
+
+<class name="p.C1Test">
+<method>
+
+<execlude name="m1"></execlude>
+</method>
+</class>
+</Classes>
+</test>
+
+
+<test>
+<test name="Sanity" >
+<Classes>
+
+<class name="p.C2Test">
+<method>
+
+<execlude name="m1"></execlude>
+</method>
+</class>
+</Classes>
+</test>
+
+
+
+</tests>
+</suite>

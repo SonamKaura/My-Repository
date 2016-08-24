@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegSuite]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <test name="2ndTime(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="taran.TaranTest">
+        <methods>
+          <include name="method" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- taran.TaranTest -->
+    </classes>
+  </test> <!-- 2ndTime(failed) -->
+  <test name="1stTime(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="taran.TaranTest">
+        <methods>
+          <include name="method" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- taran.TaranTest -->
+    </classes>
+  </test> <!-- 1stTime(failed) -->
+</suite> <!-- Failed suite [RegSuite] -->
