@@ -30,6 +30,7 @@ public class Gmail
 		WebElement next =driver.findElement(By.xpath("//input[@id='next']"));
 		next.click();
 		WebElement password =driver.findElement(By.xpath("//input[@id='Passwd']"));
+		System.out.println("Hii");
 	
 		password.sendKeys("");
 		WebElement singnin=driver.findElement(By.xpath("//input[@id='signIn']"));
